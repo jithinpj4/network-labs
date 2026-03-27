@@ -1,5 +1,10 @@
-# network-labs
-My CCNA networking practice labs Public
+# 📡 Network Labs
+
+Welcome to my networking practice labs.
+These labs cover CCNA topics like VLANs, DHCP, OSPF, ACL, STP and more.
+
+---
+
 ## 🔗 Network
 
 * [CCNA Mega Lab](CCNA-Mega-Lab/README.md)
@@ -14,4 +19,3 @@ My CCNA networking practice labs Public
 * [ACLs Standard and Extended](ACL/README.md)
 * [NTP](NTP/README.md)
 * [HSRP & STP Synchronization](HSRP-STP/README.md)
-
